@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamila
 - 👀 I’m interested in  web development and android
-- 🌱 I’m a web/android developer
+- 🌱 I’m a Java /EE & Android developer
 - 📫 How to reach me :
 -  https://www.linkedin.com/in/jamilaelghiyati/ 
 - jamila.elghiyati@gmail.com
